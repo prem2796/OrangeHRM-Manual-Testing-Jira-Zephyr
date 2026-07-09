@@ -178,20 +178,9 @@ The repository contains complete QA documentation:
 
 ## Jira
 
-Add screenshots of:
+## Jira Sprint
 
-- Project Overview
-- Sprint 1
-- Sprint 2
-- Stories
-- Bug List
-- Sample Bug
-
-Example:
-
-```
-/Screenshots/Jira/Sprint1.png
-```
+![Jira Sprint](Screenshots/Jira/Screenshot 2026-07-09 170154.png)
 
 ---
 
@@ -205,12 +194,6 @@ Include screenshots of:
 - Employee Test Cycle
 - Leave Test Cycle
 - Test Execution Results
-
-Example:
-
-```
-/Screenshots/Zephyr/Login_Test_Cycle.png
-```
 
 ---
 
