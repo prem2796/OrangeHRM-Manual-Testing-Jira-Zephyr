@@ -201,19 +201,17 @@ Include screenshots of:
 
 ---
 
-## Login Test Cycle
+## Test Cycle
 
 ![Login Test Cycle](Screenshots/Zephyr/Screenshot%202026-07-09%20170950.png)
 
 ---
 
-## Dashboard Test Cycle
+## Login Test Cycle
 
 ![Dashboard Test Cycle](Screenshots/Zephyr/Screenshot%202026-07-09%20171118.png)
 
 ---
-
-## Test Execution Summary
 
 ![Test Execution Summary](Screenshots/Zephyr/Screenshot%202026-07-09%20171139.png)
 ---
