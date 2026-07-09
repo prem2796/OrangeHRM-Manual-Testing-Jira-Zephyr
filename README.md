@@ -180,6 +180,8 @@ The repository contains complete QA documentation:
 
 ![Jira Sprint](Screenshots/Jira/Screenshot%202026-07-09%20170154.png)
 
+![Jira Screenshot](Screenshots/Jira/Screenshot%202026-07-09%20170248.png)
+
 ---
 
 ## Zephyr Scale
@@ -193,6 +195,27 @@ Include screenshots of:
 - Leave Test Cycle
 - Test Execution Results
 
+## Zephyr Test Case Library
+
+![Zephyr Test Cases](Screenshots/Zephyr/Screenshot%202026-07-09%20170934.png)
+
+---
+
+## Login Test Cycle
+
+![Login Test Cycle](Screenshots/Zephyr/Screenshot%202026-07-09%20170950.png)
+
+---
+
+## Dashboard Test Cycle
+
+![Dashboard Test Cycle](Screenshots/Zephyr/Screenshot%202026-07-09%20171118.png)
+
+---
+
+## Test Execution Summary
+
+![Test Execution Summary](Screenshots/Zephyr/Screenshot%202026-07-09%20171139.png)
 ---
 
 # 📈 Key Achievements
