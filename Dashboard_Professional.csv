@@ -1,0 +1,61 @@
+Name,Status,Priority,Objective,Precondition,Folder,Labels,Step,Expected Result
+Verify Dashboard loads successfully,Approved,High,Verify dashboard loads successfully.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Dashboard loads successfully,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Welcome message,Approved,High,Verify welcome message.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Welcome message,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Quick Launch widget,Approved,High,Verify quick launch widget.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Quick Launch widget,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Time at Work widget,Approved,High,Verify time at work widget.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Time at Work widget,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify My Actions widget,Approved,High,Verify my actions widget.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: My Actions widget,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Buzz widget,Approved,High,Verify buzz widget.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Buzz widget,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Navigation menu,Approved,High,Verify navigation menu.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Navigation menu,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Dashboard refresh,Approved,High,Verify dashboard refresh.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Dashboard refresh,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Widget alignment,Approved,Medium,Verify widget alignment.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Widget alignment,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Responsive layout,Approved,Medium,Verify responsive layout.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Responsive layout,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Page title,Approved,Medium,Verify page title.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Page title,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Profile menu,Approved,Medium,Verify profile menu.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Profile menu,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Sidebar collapse,Approved,Medium,Verify sidebar collapse.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Sidebar collapse,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Notifications,Approved,Medium,Verify notifications.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Notifications,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Search,Approved,Medium,Verify search.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Search,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Browser back,Approved,Medium,Verify browser back.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Browser back,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Dashboard loading time,Approved,Medium,Verify dashboard loading time.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Dashboard loading time,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Unauthorized access,Approved,Medium,Verify unauthorized access.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Unauthorized access,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Session timeout,Approved,Medium,Verify session timeout.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Session timeout,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Dashboard footer,Approved,Medium,Verify dashboard footer.,User is on Dashboard module.,Dashboard,Functional,Navigate to Dashboard module,Dashboard page is displayed
+,,,,,,,Perform scenario: Dashboard footer,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed

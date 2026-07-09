@@ -1,0 +1,51 @@
+Name,Status,Step,Expected Result
+TC01 - Verify Valid Login,Approved,Open OrangeHRM login page,Login page is displayed
+,,Enter Username: Admin,Username accepted
+,,Enter Password: admin123,Password accepted
+,,Click Login,Dashboard is displayed
+TC02 - Verify Invalid Password,Approved,Open login page,Login page displayed
+,,Enter Username: Admin,Username accepted
+,,Enter Password: Wrong@123,Password entered
+,,Click Login,Invalid credentials message displayed
+TC03 - Verify Invalid Username,Approved,Open login page,Login page displayed
+,,Enter Username: InvalidUser,Username entered
+,,Enter Password: admin123,Password entered
+,,Click Login,Invalid credentials message displayed
+TC04 - Verify Blank Username,Approved,Leave Username blank,Username empty
+,,Enter Password: admin123,Password entered
+,,Click Login,Username Required displayed
+TC05 - Verify Blank Password,Approved,Enter Username: Admin,Username entered
+,,Leave Password blank,Password empty
+,,Click Login,Password Required displayed
+TC06 - Verify Both Fields Blank,Approved,Leave Username blank,
+,,Leave Password blank,
+,,Click Login,Required messages displayed
+TC07 - Verify Username Case Sensitivity,Approved,Enter Username: ADMIN,
+,,Enter Password: admin123,
+,,Click Login,Invalid credentials displayed
+TC08 - Verify Password Case Sensitivity,Approved,Enter Username: Admin,
+,,Enter Password: ADMIN123,
+,,Click Login,Invalid credentials displayed
+TC09 - Verify Leading Spaces in Username,Approved,Enter Username: ' Admin',
+,,Enter Password: admin123,
+,,Click Login,System trims spaces or rejects login
+TC10 - Verify Trailing Spaces in Username,Approved,Enter Username: 'Admin ',
+,,Enter Password: admin123,
+,,Click Login,System trims spaces or rejects login
+TC11 - Verify SQL Injection,Approved,Enter Username: ' OR '1'='1,
+,,Enter Password: test,
+,,Click Login,Login denied securely
+TC12 - Verify XSS Injection,Approved,Enter Username: <script>alert(1)</script>,
+,,Click Login,Script not executed
+TC13 - Verify Password Masking,Approved,Enter Password: admin123,Characters masked
+TC14 - Verify Forgot Password Link,Approved,Click Forgot Password,Reset page opens
+TC15 - Verify Login Button State,Approved,Observe Login button,Visible and enabled
+TC16 - Verify Login Using Enter Key,Approved,Enter valid credentials,
+,,Press Enter,Dashboard displayed
+TC17 - Verify Browser Refresh,Approved,Refresh login page,Page reloads successfully
+TC18 - Verify Session Timeout,Approved,Login,Dashboard displayed
+,,Remain idle,Session expires
+,,Perform action,Redirected to Login
+TC19 - Verify Logout,Approved,Click Profile > Logout,Login page displayed
+TC20 - Verify Multiple Invalid Login Attempts,Approved,Attempt invalid login 5 times,
+,,Observe behavior,"Application stable, invalid credentials displayed"

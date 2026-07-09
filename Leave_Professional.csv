@@ -1,0 +1,61 @@
+Name,Status,Priority,Objective,Precondition,Folder,Labels,Step,Expected Result
+Verify Apply Leave,Approved,High,Verify apply leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Apply Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Cancel Leave,Approved,High,Verify cancel leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Cancel Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Approve Leave,Approved,High,Verify approve leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Approve Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Reject Leave,Approved,High,Verify reject leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Reject Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Leave Balance,Approved,High,Verify leave balance.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Leave Balance,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Leave History,Approved,High,Verify leave history.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Leave History,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Multiple Leave Requests,Approved,High,Verify multiple leave requests.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Multiple Leave Requests,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Search Leave Records,Approved,High,Verify search leave records.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Search Leave Records,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Mandatory Fields,Approved,Medium,Verify mandatory fields.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Mandatory Fields,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Insufficient Leave Balance,Approved,Medium,Verify insufficient leave balance.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Insufficient Leave Balance,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Invalid Date Range,Approved,Medium,Verify invalid date range.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Invalid Date Range,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Weekend Leave,Approved,Medium,Verify weekend leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Weekend Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Holiday Leave,Approved,Medium,Verify holiday leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Holiday Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Comments Field,Approved,Medium,Verify comments field.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Comments Field,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Attachment Upload,Approved,Medium,Verify attachment upload.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Attachment Upload,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Reset Filters,Approved,Medium,Verify reset filters.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Reset Filters,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Half Day Leave,Approved,Medium,Verify half day leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Half Day Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Future Date Leave,Approved,Medium,Verify future date leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Future Date Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Past Date Leave,Approved,Medium,Verify past date leave.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Past Date Leave,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
+Verify Leave Status Update,Approved,Medium,Verify leave status update.,User is on Leave module.,Leave,Functional,Navigate to Leave module,Leave page is displayed
+,,,,,,,Perform scenario: Leave Status Update,System accepts the action
+,,,,,,,Verify outcome,Expected behaviour is displayed
