@@ -178,9 +178,7 @@ The repository contains complete QA documentation:
 
 ## Jira
 
-## Jira Sprint
-
-![Jira Sprint](Screenshots/Jira/Screenshot 2026-07-09 170154.png)
+![Jira Sprint](Screenshots/Jira/Screenshot%202026-07-09%20170154.png)
 
 ---
 
